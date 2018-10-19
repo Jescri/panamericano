@@ -500,4 +500,8 @@ h6,
 #header3-6 .mbr-section-title {
   font-family: 'Lato', sans-serif;
   color: #475577;
+  text-align: center;
+}
+#header3-6 .mbr-section-subtitle {
+  text-align: center;
 }

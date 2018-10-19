@@ -270,13 +270,17 @@
             ".mbr-section-title": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#475577"
+              "color": "#475577",
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgColor": "#e4e3dd"
           },
           "title": "Consejos para reprogramarnos",
@@ -293,7 +297,7 @@
             "showBullets": false,
             "fullWidth": true,
             "spacing": "2",
-            "paddingTop": 1,
+            "paddingTop": "0",
             "paddingBottom": 1,
             "filterBgColor": true,
             "bgColor": "#cccccc",
