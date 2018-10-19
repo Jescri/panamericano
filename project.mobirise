@@ -298,7 +298,7 @@
           "_inherit": "gallery1",
           "_params": {
             "showBullets": false,
-            "fullWidth": true,
+            "fullWidth": false,
             "spacing": "2",
             "paddingTop": "0",
             "paddingBottom": 1,
@@ -317,7 +317,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Combatiendo la depresión",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -341,7 +341,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Ejercicios que dan paz",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
@@ -553,7 +553,8 @@
             },
             ".mbr-section-title": {
               "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#475577"
             }
           },
           "_params": {
