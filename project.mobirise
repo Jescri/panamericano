@@ -397,7 +397,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/abuelo-612x407.jpg",
               "link": "https://youtu.be/sL_fAbyrvyM",
@@ -406,10 +405,11 @@
               "linkInNewWindow": false
             },
             "video": {
-              "src": "https://youtu.be/sL_fAbyrvyM",
+              "src": "",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false
+              "loop": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
