@@ -11,6 +11,10 @@
 
 
 
+
+
+
+
 body,
 input,
 textarea,
@@ -504,4 +508,32 @@ h6,
 }
 #header3-6 .mbr-section-subtitle {
   text-align: center;
+}
+#msg-box6-7 .mbr-section-title,
+#msg-box6-7 .lead p {
+  color: #fff;
+}
+#msg-box6-7 H3 {
+  font-family: 'Lato', sans-serif;
+}
+#features1-8 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #49737c;
+}
+#contacts2-9 P {
+  color: #ffffff;
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+}
+#contacts2-9 STRONG {
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+}
+#social-buttons2-b .mbr-section-title,
+#social-buttons2-b .btn-social {
+  color: #232323;
+}
+#social-buttons2-b .mbr-section-title {
+  color: #ffffff;
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
 }
