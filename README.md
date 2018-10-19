@@ -1,0 +1,2 @@
+# panamericano
+GitHub Pages
