@@ -20,12 +20,14 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#e4e3dd"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 6,
+    "uniqCompNum": 7,
     "versionPublish": "4.7.7",
     "screenshot": "screenshot.png"
   },
@@ -259,6 +261,31 @@
               "color": "#475577"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#475577"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#e4e3dd"
+          },
+          "title": "Consejos para reprogramarnos",
+          "meta": "Por el First Hospital Panamericano",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6"
         },
         {
           "_inherit": "gallery1",

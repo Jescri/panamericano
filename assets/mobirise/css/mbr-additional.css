@@ -10,6 +10,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -489,6 +490,14 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 #msg-box4-4 H3 {
+  font-family: 'Lato', sans-serif;
+  color: #475577;
+}
+#header3-6 .mbr-section-title,
+#header3-6 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6 .mbr-section-title {
   font-family: 'Lato', sans-serif;
   color: #475577;
 }
