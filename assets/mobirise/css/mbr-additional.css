@@ -15,6 +15,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -518,6 +519,13 @@ h6,
 }
 #features1-8 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #49737c;
+}
+#header3-e .mbr-section-title,
+#header3-e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-e .mbr-section-title {
+  font-family: 'Lato', sans-serif;
 }
 #contacts2-9 P {
   color: #ffffff;
