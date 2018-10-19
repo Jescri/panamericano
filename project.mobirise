@@ -554,7 +554,8 @@
             ".mbr-section-title": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#475577"
+              "color": "#475577",
+              "text-align": "center"
             }
           },
           "_params": {
@@ -746,8 +747,8 @@
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#e4e3dd",
-            "overlay": false,
-            "overlayColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#49737c",
             "overlayOpacity": "0.2",
             "googleMap": {
               "address": "Km 1.5, PR-787, Cidra, 00739, Puerto Rico",
